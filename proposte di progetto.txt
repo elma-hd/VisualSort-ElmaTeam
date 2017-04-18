@@ -1,0 +1,17 @@
+rispondete on un txt con il progetto che preferireste fare o con eventuali proposte.
+
+PROPOSTA 1)facciamo lo stesso progetto dell'altra volta impostandolo
+in una manier più semplice senza un'imput e dove il lavoro 
+viene diviso in parti uguali , cioè ognuno deve fare il movimento
+dei quadrati o delle immaginicome vuole nel javascript e sceglie
+ un ordinamento da implementare ,la base grafica bene o male 
+la abbiamo già 
+
+PROPOSTA 2)facciamo una spiega<ion grafica dei cicli esistenti in informatica
+come while , switch, for e if. ad esempio scegliamo il ciclo while 
+mettiamo la condizione da mantnere (deciderà colui che la deve implementare 
+quale dovrà ssere) come : fai questa operazione finhè la pallina blu
+non diventa la prima (dove magari il ciclo fa uovere le palline dal primo 
+allultimo posto in modo casuale ecc) una cosa molto libera così da poter fare
+ognuno le cose come meglio crede.
+ 
